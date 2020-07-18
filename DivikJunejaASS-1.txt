@@ -1,0 +1,33 @@
+ASSIGNMENT DAY-1 18july 2020
+
+Q1. What is your understanding of blockchain?
+
+Ans. It is actually a combination of mix of technologies: Distributed database and Cryptography. These technologies will create much wanted transparency and trust in system by removing middleman.
+There is no third party or middleman involved. Trust lies within the community itself. Everyone in the network validates the transactions.
+
+Q2. What is the core problem Blockchain trying to solve?
+
+Ans. Blockchain is used to avoid hacking into the database and offering tamper-proof database. That means no one alter the transactions. It gives a huge security boost. It offers data transparency over the network.
+It works in a decentralised environment and moreover data is verifable. Not to forget, it removes the middleman involved in b/w the transactions.
+
+Q3. What are the few features blockchain will give you?
+
+Ans. 1. Unchangeable data
+2. Tamper-proof data
+3. Immutable records of transactions.
+4. Decentralised environment.
+
+Q4. What all things a block can contain?
+
+Ans. 1. Block number
+2. Transaction Record
+3. Previous Digital Signature
+4. Mining Key
+
+Q5. How is the verifiabilty of blockchain has been attained?
+
+Ans. Let's take a real time example: We are 900 people watching live session of LetsUpgrade and now we all need to download assignment question paper and store it in our computer. Now all 900 people have to create
+digital signature of this question paper by PREVIOUS FINGERPRINT+ CONTENT [current doc] = CURRENT FINGERPRINT.
+900 students are then asked to send their current fingerprint into whatsapp group. Now everyone in group will validate if fingerprint is same or not.
+If anyone reports a diff fingerprint, we all 899 people will ask that one guy to replace his/her question paper/data entirely.
+Thats what we call verfiabilty in blockchain.
